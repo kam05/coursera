@@ -6,7 +6,7 @@ Write your code in this editor and press "Run" button to execute it.
 
 *******************************************************************************/
 
-public class Main_QuickFind
+public class Main_UnionFind
 {
 
 	public static void main(String[] args) {
